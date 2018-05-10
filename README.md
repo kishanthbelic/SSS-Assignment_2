@@ -1,9 +1,9 @@
 # SSS-Assignment_2
 
 
-h1 style="font-size: 35px;text-align:center;color: #dff9fb;text">Secure Software Systems </br> Assignment 2</h1>
-        <p style="text-align:center;color: #95afc0">Cross Site Request Forgery Protection - Double Submit Cookies</p>
+<h1 style="font-size: 35px;">Secure Software Systems </br> Assignment 2</h1>
+        <p>Cross Site Request Forgery Protection - Double Submit Cookies</p>
     <hr>
     
-    
+ <h1 style="font-size: 35px;">Username : admin </br> PAssword : admin</h1>
     
